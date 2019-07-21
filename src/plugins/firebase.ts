@@ -6,7 +6,7 @@ import { SET, SET_USER } from '@/types/MutationTypes';
 import State from '@/models/State';
 
 const firebaseApp = firebase.initializeApp({
-  apiKey: 'AIzaSyBS7SMT8WMvzVCVrlNDuIPbAarPMB8FiG4',
+  apiKey: 'AIzaSyDUOOBE0FeApA94wp7EA5_XLcvt14CRt1w',
   authDomain: 'ogisuinote.firebaseapp.com',
   databaseURL: 'https://ogisuinote.firebaseio.com',
   projectId: 'ogisuinote',
